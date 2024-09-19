@@ -1,0 +1,27 @@
+﻿<Window x:Class="UpperLowerCase.View.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UpperLowerCase.View"
+        xmlns:viewmodels="clr-namespace:UpperLowerCase.ViewModel"
+        mc:Ignorable="d"
+        Title="MainView" Height="450" Width="800">
+    <d:Window.DataContext>
+        <viewmodels:MainViewModel/>
+    </d:Window.DataContext>
+    <Grid>
+        <StackPanel HorizontalAlignment="Center"
+                    VerticalAlignment="Center">
+            <TextBlock Text="{Binding UserMessage.Text}"
+                       FontSize="24"
+                       HorizontalAlignment="Center"
+                       Margin="10"/>
+            <Button Content="Toggle Case"
+                    Command="{Binding ToggleCaseCommand}"
+                    Width="100"
+                    Height="30"
+                    HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>
