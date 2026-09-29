@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\",
+  "WorkspaceRootPath": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\leerjaar 2\\desktop development 1\\week 1\\encapsulation\\abstraction\\personenauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\portfolio\\encapsulation\\abstraction\\personenauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\personenauto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\leerjaar 2\\desktop development 1\\week 1\\encapsulation\\abstraction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\portfolio\\encapsulation\\abstraction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\leerjaar 2\\desktop development 1\\week 1\\encapsulation\\abstraction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|c:\\users\\ps253197\\onedrive - summacollege o365\\school\\portfolio\\encapsulation\\abstraction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3CB1B9E1-9F9D-4EE8-B681-FB9E184EF6A9}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Abstraction\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\MainWindow.xaml",
               "RelativeToolTip": "Abstraction\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-03T12:49:00.979Z"
@@ -39,23 +39,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Abstraction\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\MainWindow.xaml.cs",
               "RelativeToolTip": "Abstraction\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:48:58.532Z"
+              "WhenOpened": "2024-09-03T12:48:58.532Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonenAuto.cs",
-              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\PersonenAuto.cs",
+              "DocumentMoniker": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\PersonenAuto.cs",
               "RelativeDocumentMoniker": "Abstraction\\PersonenAuto.cs",
-              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\Leerjaar 2\\Desktop Development 1\\Week 1\\Encapsulation\\Abstraction\\PersonenAuto.cs",
+              "ToolTip": "C:\\Users\\PS253197\\OneDrive - Summacollege O365\\School\\portfolio\\Encapsulation\\Abstraction\\PersonenAuto.cs",
               "RelativeToolTip": "Abstraction\\PersonenAuto.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGgAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T12:58:49.75Z",
               "EditorCaption": ""

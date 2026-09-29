@@ -34,7 +34,7 @@ namespace Abstraction
             tblModel.Text = _volkswagenGolf.Model;
             tblKmStand.Text = _volkswagenGolf.Kilometerstand.ToString();
             tblBouwjaar.Text = _volkswagenGolf.Bouwjaar.ToString();
-            tblLeeftijd.Text = _volkswagenGolf.Leeftijd.ToString();
+            tblLeeftijd.Text = _volkswagenGolf.Leeftijd.ToString() + (" jaar");
             tblKmPerLiter.Text = _volkswagenGolf.KilometerPerLiter.ToString();
             tblLitersInTank.Text = Math.Round(_volkswagenGolf.LitersInTank, 2).ToString();
             //_volkswagenGolf.LitersInTank.ToString();
